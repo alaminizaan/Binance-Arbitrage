@@ -5,8 +5,8 @@
 '''
 
 BINANCE_CONFIG = {
-    'apiKey': '',
-    'secret': '',
+    'apiKey': 'vpKO1DecEFexXzX5gsfG8WEmHuH5DPeV4lYqFKBJGwmjeVoWwXMZjU4UFcqQFaba',
+    'secret': 'mnpTkA1KNYiDBpoUsiUjQGY3KUtPOxJHcad0aFVbvSF8h5imxhAaAcriP99oiMIi',
     'timeout': 3000,
     'rateLimit': 10,
     'verbose': False,
